@@ -4,11 +4,11 @@
       <h2 class="mb-4 pl-4 pt-2">Education</h2>
       <v-card-text class="py-0">
         <v-timeline align-top dense>
-          <v-timeline-item color="green" small>
+          <v-timeline-item color="blue" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">MARCH 2020 -</div>
-                <div class="caption font-weight-bold green--text">AUG 2020</div>
+                <div class="caption font-weight-bold blue--text">MARCH 2020 -</div>
+                <div class="caption font-weight-bold blue--text">AUG 2020</div>
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Full Stack Web Development Course</strong>
@@ -17,11 +17,11 @@
             </v-layout>
           </v-timeline-item>
 
-          <v-timeline-item color="green" small>
+          <v-timeline-item color="blue" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">MAY 2012 -</div>
-                <div class="caption font-weight-bold green--text">APRIL 2013</div>
+                <div class="caption font-weight-bold blue--text">MAY 2012 -</div>
+                <div class="caption font-weight-bold blue--text">APRIL 2013</div>
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Motor Mechanics (Petrol)</strong>
@@ -30,11 +30,11 @@
             </v-layout>
           </v-timeline-item>
 
-          <v-timeline-item color="green" small>
+          <v-timeline-item color="blue" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">MAY 2013 -</div>
-                <div class="caption font-weight-bold green--text">APRIL 2017</div>
+                <div class="caption font-weight-bold blue--text">MAY 2013 -</div>
+                <div class="caption font-weight-bold blue--text">APRIL 2017</div>
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Motor Mechanic</strong>
@@ -49,11 +49,11 @@
       <h2 class="mb-4 pl-4">Experience</h2>
       <v-card-text class="py-0">
         <v-timeline align-top dense>
-          <v-timeline-item color="green" small>
+          <v-timeline-item color="blue" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">JULY 2021 -</div>
-                <div class="caption font-weight-bold green--text">PRESENT</div>
+                <div class="caption font-weight-bold blue--text">JULY 2021 -</div>
+                <div class="caption font-weight-bold blue--text">PRESENT</div>
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Junior Lecturer</strong>
@@ -62,11 +62,11 @@
             </v-layout>
           </v-timeline-item>
 
-          <v-timeline-item color="green" small>
+          <v-timeline-item color="blue" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">AUG 2020 -</div>
-                <div class="caption font-weight-bold green--text">SEPT 2021</div>
+                <div class="caption font-weight-bold blue--text">AUG 2020 -</div>
+                <div class="caption font-weight-bold blue--text">SEPT 2021</div>
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Web developer Intern</strong>
@@ -75,11 +75,11 @@
             </v-layout>
           </v-timeline-item>
 
-          <v-timeline-item color="green" small>
+          <v-timeline-item color="blue" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">AUG 2017 -</div>
-                <div class="caption font-weight-bold green--text">JAN 2020</div>
+                <div class="caption font-weight-bold blue--text">AUG 2017 -</div>
+                <div class="caption font-weight-bold blue--text">JAN 2020</div>
               </v-flex>
               <v-flex class="pl-2">
                 <strong>General Worker</strong>
@@ -87,11 +87,11 @@
               </v-flex>
             </v-layout>
           </v-timeline-item>
-          <v-timeline-item color="green" small>
+          <v-timeline-item color="blue" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">SEPT 2013 -</div>
-                <div class="caption font-weight-bold green--text">JUN 2015</div>
+                <div class="caption font-weight-bold blue--text">SEPT 2013 -</div>
+                <div class="caption font-weight-bold blue--text">JUN 2015</div>
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Motor Mechanic Apprentice</strong>
@@ -99,11 +99,11 @@
               </v-flex>
             </v-layout>
           </v-timeline-item>
-          <v-timeline-item color="green" small>
+          <v-timeline-item color="blue" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">FEB 2013-</div>
-                <div class="caption font-weight-bold green--text">AUG 2013</div>
+                <div class="caption font-weight-bold blue--text">FEB 2013-</div>
+                <div class="caption font-weight-bold blue--text">AUG 2013</div>
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Motor Mechanic Apprentice</strong>
@@ -119,31 +119,31 @@
         <h2>
           <span>Design</span>
 
-          <span class="green--text">Skills</span>
+          <span class="blue--text">Skills</span>
         </h2>
         <br>
         <strong>Figma</strong>
-        <v-progress-linear v-model="buffer1" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer1" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
 
       </v-flex>
       <v-flex xs12 sm12 md4 lg5 xl5 class="mx-2 pt-4">
         <h2>
           <span>Coding</span>
-          <span class="green--text">Skills</span>
+          <span class="blue--text">Skills</span>
         </h2>
         <br>
         <strong>VUE</strong>
-        <v-progress-linear v-model="buffer4" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer4" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
         <strong>HTML/CSS</strong>
-        <v-progress-linear v-model="buffer5" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer5" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
         <strong>JavaScript</strong>
-        <v-progress-linear v-model="buffer6" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer6" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
       </v-flex>
       <div class="mt-4 pt-2">
         <v-btn
           href="https://docs.google.com/document/d/1wRjN4D_hV8OqbZZ4Ef0RczueOl0EHhxuCM9dz3FMhDA/edit?usp=sharing"
           target="_blank"
-          color="green"
+          color="blue"
           dark
           large
         >
