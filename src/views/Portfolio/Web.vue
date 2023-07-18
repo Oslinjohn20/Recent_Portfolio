@@ -60,7 +60,7 @@ export default {
       { property: 'og:description', content: "Oslin Johnson's Portfolio" }
     ]
   },
-  data () {
+  data() {
     return {
       dialog: false,
       projects: [
@@ -151,6 +151,18 @@ export default {
             tech4: 'JavaScript'
           },
           poster: 'https://i.postimg.cc/x8MyHM8b/image.png'
+        },
+        {
+          dialog: false,
+          title: 'Quiz Time ',
+          git: 'https://github.com/Oslinjohn20/QuizTime',
+          demo: 'https://unrivaled-empanada-06769d.netlify.app/',
+          tech: {
+            tech1: 'HTML',
+            tech2: 'CSS',
+            tech3: 'JavaScript'
+          },
+          poster: 'https://i.postimg.cc/DzHz8qWG/image.png'
         }
 
       ]
