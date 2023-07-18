@@ -34,7 +34,7 @@
           <span class="blue--text">Form</span>
         </h2>
 
-        <form method="POST" action="https://formspree.io/eldin@zaimovic.com">
+        <form method="POST" action="https://formspree.io/f/xvowbjaj">
           <v-text-field
             name="name"
             color="blue"

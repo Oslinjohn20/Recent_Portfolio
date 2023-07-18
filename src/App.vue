@@ -22,20 +22,20 @@ export default {
   name: 'App',
   metaInfo: {
     title: 'Home',
-    titleTemplate: "%s ← Eldin's Space",
+    titleTemplate: "%s ← Oslin's Room",
     meta: [
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { name: 'description', content: "Eldin Zaimovic's Portfolio" },
+      { name: 'description', content: "Oslin Johnson's Portfolio" },
       { charset: 'utf-8' },
-      { property: 'og:title', content: "Eldin' Space" },
-      { property: 'og:site_name', content: "Eldin' Space" },
+      { property: 'og:title', content: "Oslin' Room" },
+      { property: 'og:site_name', content: "Oslin' Room" },
       { property: 'og:type', content: 'website' },
-      { property: 'og:url', content: 'https://eldin.space' },
+      { property: 'og:url', content: 'ttps://oslinj-dark.netlify.app' },
       {
         property: 'og:image',
-        content: 'https://i.imgur.com/Dcz2PGx.jpg'
+        content: 'https://i.postimg.cc/NFfwBrrk/Untitled-design.jpg'
       },
-      { property: 'og:description', content: "Eldin Zaimovic's Portfolio" }
+      { property: 'og:description', content: "Oslin Johnson's Portfolio" }
     ]
   },
   components: {
