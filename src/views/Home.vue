@@ -115,6 +115,8 @@ export default {
 
 .vue-typer {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 .vue-typer .custom.char.typed {
