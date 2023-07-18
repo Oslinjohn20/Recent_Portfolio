@@ -60,7 +60,7 @@ export default {
       { property: 'og:description', content: "Oslin Johnson's Portfolio" }
     ]
   },
-  data() {
+  data () {
     return {
       dialog: false,
       projects: [
