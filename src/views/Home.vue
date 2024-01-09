@@ -89,10 +89,10 @@ export default {
         }
       ],
       text1: ['Front-End Developer', 'Web Developer', 'Lecturer'],
-      leftImage: 'https://i.postimg.cc/NFfwBrrk/Untitled-design.jpg',
-      rightImage: 'https://i.postimg.cc/qBy8qMNd/Full-HD.jpg',
-      leftImage2: 'https://i.postimg.cc/P5zh7b9F/Untitled-design-1-1.jpg',
-      rightImage2: 'https://i.postimg.cc/KcP2jDvc/Full-HD-1.jpg',
+      leftImage: 'https://drive.google.com/file/d/1VpbWWkwD9SkQkBXBUiLDiR8RSQNjET57/view',
+      rightImage: 'https://drive.google.com/file/d/1_AXNodQ6VW8eFuCXUTV0m25jovicfmZ4/view?usp=drive_link',
+      leftImage2: 'https://drive.google.com/file/d/1VpbWWkwD9SkQkBXBUiLDiR8RSQNjET57/view',
+      rightImage2: 'https://drive.google.com/file/d/1_AXNodQ6VW8eFuCXUTV0m25jovicfmZ4/view?usp=drive_link',
       sliderLine: 0,
       hSize: 0,
       sliderPosition: 0.5
