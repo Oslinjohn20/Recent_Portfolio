@@ -68,7 +68,7 @@ export default {
       { property: 'og:url', content: 'https://oslinj-dark.netlify.app/' },
       {
         property: 'og:image',
-        content: 'https://i.postimg.cc/NFfwBrrk/Untitled-design.jpg'
+        content: '../public/resized-removebg-preview (1).png'
       },
       { property: 'og:description', content: "Oslin Johnson's Portfolio" }
     ]
@@ -89,10 +89,10 @@ export default {
         }
       ],
       text1: ['Front-End Developer', 'Web Developer', 'Lecturer'],
-      leftImage: 'https://drive.google.com/file/d/1VpbWWkwD9SkQkBXBUiLDiR8RSQNjET57/view',
-      rightImage: 'https://drive.google.com/file/d/1_AXNodQ6VW8eFuCXUTV0m25jovicfmZ4/view?usp=drive_link',
-      leftImage2: 'https://drive.google.com/file/d/1VpbWWkwD9SkQkBXBUiLDiR8RSQNjET57/view',
-      rightImage2: 'https://drive.google.com/file/d/1_AXNodQ6VW8eFuCXUTV0m25jovicfmZ4/view?usp=drive_link',
+      leftImage: '../public/resized-removebg-preview (1).png',
+      rightImage: '../public/tech.jpg',
+      leftImage2: '../public/resized-removebg-preview (1).png',
+      rightImage2: '../public/tech.jpg',
       sliderLine: 0,
       hSize: 0,
       sliderPosition: 0.5

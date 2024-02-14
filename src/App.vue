@@ -33,7 +33,7 @@ export default {
       { property: 'og:url', content: 'ttps://oslinj-dark.netlify.app' },
       {
         property: 'og:image',
-        content: 'https://i.postimg.cc/NFfwBrrk/Untitled-design.jpg'
+        content: '../public/resized-removebg-preview (1).png'
       },
       { property: 'og:description', content: "Oslin Johnson's Portfolio" }
     ]
